@@ -13,8 +13,6 @@ payload:
   - PROCESS-NAME,shadowsocks.exe
   - PROCESS-NAME,shadowsocksr
   - PROCESS-NAME,shadowsocksr.exe
-  - PROCESS-NAME,sing-box
-  - PROCESS-NAME,sing-box.exe
   - PROCESS-NAME,speeder
   - PROCESS-NAME,speeder.exe
   - PROCESS-NAME,speederv2
